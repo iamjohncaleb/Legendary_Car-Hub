@@ -144,29 +144,31 @@
     width: 100%;
 }
 .single-client{
-    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 2px 20px rgba(0,0,0,0.3);
     padding: 30px 15px;
 }
 .single-client h2{
     color: #08194a;
     font-family: bebas neue;
 }
-single-client h5{
+.single-client h5{
     color: #08194a;
     font-weight: 600;
     font-size: 15px;
 }
-single-client h5 span{
+.single-client h5 span{
     font-size: 12px;
     text-transform: uppercase;
-}
+} 
+
 /* contact */
-.left-content{
+
+.left-contact{
     background: #08194a;
-    padding: 60px;
+    padding: 60px 15px;
     color: #fff;
  }
- .left-content h3{
+ .left-contact h3{
     font-family: bebas neue;
     margin-bottom: 20px;
  }
