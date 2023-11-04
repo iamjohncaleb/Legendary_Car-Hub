@@ -111,6 +111,7 @@
 .about-text h2 span{
     color: #e53f29;
 }
+
 .about-text .btn{
     background: #08194a;
     color: #fff;
@@ -177,11 +178,13 @@
     color: #08194a;
     font-family: bebas neue;
 }
+
 .single-client h5{
     color: #08194a;
     font-weight: 600;
     font-size: 15px;
 }
+
 .single-client h5 span{
     font-size: 12px;
     text-transform: uppercase;
@@ -194,15 +197,18 @@
     padding: 60px 15px;
     color: #fff;
  }
+
  .left-contact h3{
     font-family: bebas neue;
     margin-bottom: 20px;
  }
+
  label{
     font-family: bebas neue;
     font-size: 28px;
     margin: 10px 0;
  }
+
  .contact .btn{
     background: #08194a;
     color: #fff;
@@ -216,6 +222,7 @@
     padding: 35px 0;
     color: #fff;
  }
+
  .social i{
     font-size: 25px;
     margin: 0 15px;
