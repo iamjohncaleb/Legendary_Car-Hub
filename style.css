@@ -107,32 +107,26 @@
     font-size: 45px;
     margin-bottom: 30px;
 }
-
 .single-services h2{
     font-family: bebas neue;
 }
-
 /* why us */
 
 .choose-img img{
     width: 100%;
 }
-
 .single-box{
     padding: 20px;
 }
-
 .single-box i{
     font-size: 35px;
     margin-bottom: 25px;
     color: #e53f29;
 }
-
 .single-box h2{
     font-family: bebas neue;
     color: #08194a;
 }
-
 /* testmonial */
 
 .imgBox{
@@ -142,32 +136,26 @@
     border-radius: 50%;
     margin: 0 auto 25px;
 }
-
 .imgBox img{
     width: 100%;
 }
-
 .single-client{
     box-shadow: 0 2px 20px rgba(0,0,0,0.3);
     padding: 30px 15px;
 }
-
 .single-client h2{
     color: #08194a;
     font-family: bebas neue;
 }
-
 .single-client h5{
     color: #08194a;
     font-weight: 600;
     font-size: 15px;
 }
-
 .single-client h5 span{
     font-size: 12px;
     text-transform: uppercase;
 } 
-
 /* contact */
 
 .left-contact{
