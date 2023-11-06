@@ -26,39 +26,32 @@
 .navbar-light .navbar-brand span{
     color: #e53f29;
 }
-
 .section-padding{
     padding: 80px 0;
 }
-
 .w-100{
     height: 100vh;
 }
-
 .navbar-toggler{
     padding: 1px 5px;
     font-size: 18px;
     line-height: 0.3;
     background: #fff;
 }
-
 .carousel{
     background-image: url(img/home.jpg);
     background-size: cover;
     background-position: center;
 }
-
 .carousel-item{
     height: 100vh;
     min-height: 300px;
 }
-
 .carousel-caption{
     bottom: 220px;
     z-index: 2;
     left: 8%;
 }
-
 .carousel-caption h5{
     font-size: 45px;
     margin-top: 25px;
@@ -66,11 +59,9 @@
     font-weight: 700;
     text-align: left;
 }
-
 .carousel-caption h5 span{
     color: #e53f29;
 }
-
 .carousel-caption p{
     width: 60%;
     font-size: 18px;
@@ -78,7 +69,6 @@
     color: #08194a;
     text-align: left;
 }
-
 .carousel-caption a{
     text-transform: uppercase;
     text-decoration: none;
@@ -89,28 +79,23 @@
     margin-top: 15px;
     border-radius: 5px;
 }
-
 /* about */
 
 .img-area img{
     width: 100 !important;
 }
-
 .about-text h2{
     font-size: 45px;
     font-weight: 700;
     color: #08194a;
 }
-
 .about-text h2 span{
     color: #e53f29;
 }
-
 .about-text .btn{
     background: #08194a;
     color: #fff;
 }
-
 /* services */
 
 .single-services{
@@ -118,7 +103,6 @@
     color: #fff;
     padding: 30px 15px;
 }
-
 .single-services i{
     font-size: 45px;
     margin-bottom: 30px;
