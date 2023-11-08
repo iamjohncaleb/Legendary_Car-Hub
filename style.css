@@ -20,6 +20,7 @@
     font-size: 16px;
     font-weight: 700;
 }
+
 .navbar-light .navbar-brand{
     color: #08194a;
     font-size: 25px;
@@ -27,9 +28,11 @@
     font-weight:bold;
     letter-spacing: 2px;
 }
+
 .navbar-light .navbar-brand span{
     color: #e53f29;
 }
+
 .section-padding{
     padding: 80px 0;
 }
@@ -47,10 +50,12 @@
     background-size: cover;
     background-position: center;
 }
+
 .carousel-item{
     height: 100vh;
     min-height: 300px;
 }
+
 .carousel-caption{
     bottom: 220px;
     z-index: 2;
