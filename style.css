@@ -95,8 +95,8 @@
     margin-top: 15px;
     border-radius: 5px;
 }
-/* about */
 
+/* about */
 .img-area img{
     width: 100 !important;
 }
@@ -136,20 +136,23 @@
 .choose-img img{
     width: 100%;
 }
+
 .single-box{
     padding: 20px;
 }
+
 .single-box i{
     font-size: 35px;
     margin-bottom: 25px;
     color: #e53f29;
 }
+
 .single-box h2{
     font-family: bebas neue;
     color: #08194a;
 }
-/* testmonial */
 
+/* testmonial */
 .imgBox{
     width: 80px;
     height: 80px;
